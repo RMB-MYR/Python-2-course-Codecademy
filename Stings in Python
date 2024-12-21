@@ -1,0 +1,23 @@
+
+
+my_string = "RemboMaster"
+print len(my_string)
+print my_string.upper()
+
+
+name = "Alex"
+quest = "Teaching Python"
+color = "Blue"
+
+print "Ah, so your name is %s, your quest is %s, " \
+"and your favorite color is %s." % (name, quest, color)
+
+
++---+---+---+---+---+
+| M | O | N | T | Y |
++---+---+---+---+---+
+  0   1   2   3   4   
+
+fifth_letter = "MONTY"[4]
+
+print fifth_letter
