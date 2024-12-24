@@ -1,2 +1,2 @@
-# Python 2 -Course Codeacademy
+# Python 2 -Course Codecademy
 Codeacademy Course
